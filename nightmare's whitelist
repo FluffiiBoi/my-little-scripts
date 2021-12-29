@@ -1,1 +1,3 @@
 local whitelist = {12793036220, 6162890136, 12622121456}
+
+return whitelist
